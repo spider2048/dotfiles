@@ -1,0 +1,13 @@
+[font]
+normal = {family = "Hack", style = "Regular"}
+italic = {family = "Hack", style = "Italic"}
+size = 10
+
+[cursor]
+style = {shape = "Block", blinking = "Always"}
+
+[terminal]
+shell = "/bin/tmux"
+
+[window]
+dimensions = {columns = 200, lines = 50}

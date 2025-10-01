@@ -1,0 +1,55 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "git.ignoreRebaseWarning": false,
+    "editor.largeFileOptimizations": false,
+    "window.commandCenter": false,
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "diffEditor.ignoreTrimWhitespace": false
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.renderWhitespace": "all",
+    "telemetry.feedback.enabled": false,
+    "telemetry.telemetryLevel": "off",
+    "gitlens.telemetry.enabled": false,
+    "search.showLineNumbers": true,
+    "window.customTitleBarVisibility": "never",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c23",
+    "python.analysis.typeCheckingMode": "standard",
+    "editor.fontSize": 12,
+    "yaml.schemas": {
+        "file:///home/spider/.vscode/extensions/continue.continue-1.2.6-linux-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ]
+    },
+    "notebook.find.filters": {
+        "markupSource": true,
+        "markupPreview": true,
+        "codeSource": true,
+        "codeOutput": true
+    },
+    "markdown.preview.lineHeight": 1.2,
+    "markdown.preview.fontSize": 12,
+    "markdown.preview.fontFamily": "'Segoe UI', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "update.mode": "none",
+    "gitlens.plusFeatures.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "continue.showInlineTip": false
+}
